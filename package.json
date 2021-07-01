@@ -2,7 +2,7 @@
   "name": "kosa.test",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rodgh522/kosa_practice/issues"
   },
-  "homepage": "https://github.com/rodgh522/kosa_practice#readme"
+  "homepage": "https://github.com/rodgh522/kosa_practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
